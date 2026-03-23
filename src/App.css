@@ -1,0 +1,15 @@
+/* src/App.css */
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  max-width: none !important; /* Forces Vite to stop centering */
+  text-align: left !important;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
